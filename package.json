@@ -1,0 +1,23 @@
+{
+  "name": "select-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZooMingGG/Select-Plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZooMingGG/Select-Plugin/issues"
+  },
+  "homepage": "https://github.com/ZooMingGG/Select-Plugin#readme"
+}
